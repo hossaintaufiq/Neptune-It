@@ -1,0 +1,83 @@
+ [
+      {
+        "id": 1,
+        "name": "Innovation Summit",
+        "image": "https://i.ibb.co/ThFHwtJ/innovation-summit-2022-0269.jpg",
+        "price": "$1,500 per attendee",
+        "description": "A conference focused on exploring cutting-edge ideas and technologies.",
+        "button_text": "Learn More"
+      },
+      {
+        "id": 2,
+        "name": "Executive Excellence Gala",
+        "image": "https://i.ibb.co/6tzhzrj/jose-martin-ramirez-carrasco-45sj-Aj-Sj-Ar-Q-unsplash.jpg",
+        "price": "$2,000 per ticket",
+        "description": "An awards ceremony honoring outstanding leaders and executives.",
+        "button_text": "Get Tickets"
+      },
+      {
+        "id": 3,
+        "name": "Team Synergy Symposium",
+        "image": "https://i.ibb.co/7GvBKDW/austin-distel-w-D1-LRb9-Oe-Eo-unsplash.jpg",
+        "price": "$1,200 per participant",
+        "description": "A gathering to enhance team collaboration and productivity.",
+        "button_text": "Register Now"
+      },
+      {
+        "id": 4,
+        "name": "FutureForward Forum",
+        "image": "https://i.ibb.co/vmSx16d/kenny-eliason-1-a-A2-Fadydc-unsplash.jpg",
+        "price": "$1,800 per delegate",
+        "description": "A forward-thinking event discussing industry trends and future strategies.",
+        "button_text": "Explore Agenda"
+      },
+      {
+        "id": 5,
+        "name": "Global Business Connect",
+        "image": "https://i.ibb.co/B3qjQSK/product-school-d-JICd7b-Ll-E-unsplash.jpg",
+        "price": "depends sponsorship level",
+        "description": "An international networking event for businesses to expand their global reach.",
+        "button_text": "Details"
+      },
+      {
+        "id": 6,
+        "name": "Sustainability Showcase",
+        "image": "https://i.ibb.co/K6h45j2/desola-lanre-ologun-Ig-UR1i-X0mq-M-unsplash.jpg",
+        "price": "$1,250 per attendee",
+        "description": "An event highlighting environmentally responsible corporate practices.",
+        "button_text": "Join the Movement"
+      },
+      {
+        "id": 7,
+        "name": "Tech Titans Conference",
+        "image": "https://i.ibb.co/mTTmVyk/matthew-osborn-w-MRIc-T86-SWU-unsplash.jpg",
+        "price": "$1,750 per pass",
+        "description": "Bringing together industry leaders to discuss the latest tech innovations.",
+        "button_text": "Register Now"
+      },
+      {
+        "id": 8,
+        "name": "Leadership Empowerment Retreat",
+        "image": "https://i.ibb.co/kgp9382/annie-spratt-sggw4-q-DD54-unsplash.jpg",
+        "price": "$2,500 per participant",
+        "description": "A retreat designed to empower and inspire corporate leaders.",
+        "button_text": "Reserve Your Spot"
+      },
+      {
+        "id": 9,
+        "name": "Success Summit",
+        "image": "https://i.ibb.co/WVbsQPd/austin-distel-rxp-Th-Owu-Vg-E-unsplash.jpg",
+        "price": "$1,500 per delegate",
+        "description": "A conference aimed at helping businesses achieve new heights of success.",
+        "button_text": "Book Your Seat"
+      }
+    ]
+  
+ 
+
+
+
+
+
+
+
